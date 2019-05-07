@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Josefin Slab', Arial, sans-serif;
+  background-color: #22212b;
 }
 body * {
   font-family: 'Josefin Slab';
